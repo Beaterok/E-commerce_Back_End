@@ -4,7 +4,7 @@ creating a back end for simple comers website using routes and modules
 # Installation
 In order to view the code for my project, please visit https://github.com/Beaterok/E-commerce_Back_End . From there you will want to click on the green "code" button. Then you will need to copy the HTTPS link.
 
-From there you will need to open your terminal on your computer and type "git clone "https://github.com/Beaterok/Schedule-Blocks.git". Then type "CD Portfolio". Then type "Code ."
+From there you will need to open your terminal on your computer and type "git clone "https://github.com/Beaterok/Schedule-Blocks.git".Then type "Code ."
 
 Below is a screen shot example of the website as well as the github repository.
 "scr"
